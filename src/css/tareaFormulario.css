@@ -1,0 +1,67 @@
+
+.tarea-formulario{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+}
+.tarea-input{
+    width: 85%;
+    font-size: 18px;
+    background-color: white;
+    padding: 14px 32px 14px 16px;
+    border-radius: 4px 0 0 4px;
+    border: 2px solid #00471b;
+    outline: none;
+}
+.contenedor-icono{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 53px;
+    background-color: #00471b;
+}
+.icono-agregar{
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+
+
+
+
+@media screen and (min-width: 1024px){
+    .tarea-formulario{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+
+    }
+    .tarea-input{
+        width: 350px;
+        font-size: 18px;
+        background-color: white;
+        padding: 14px 32px 14px 16px;
+        border-radius: 4px 0 0 4px;
+        border: 2px solid #00471b;
+        outline: none;
+    }
+    .contenedor-icono{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 53px;
+        width: 53px;
+        background-color: #00471b;
+    }
+    .icono-agregar{
+        width: 25px;
+        height: 25px;
+        margin: 5px;
+        cursor: pointer;
+    }
+}
