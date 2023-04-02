@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/listatareas/static/css/main.a513a38f.css",
+    "main.js": "/listatareas/static/js/main.f830e26b.js",
+    "index.html": "/listatareas/index.html",
+    "main.a513a38f.css.map": "/listatareas/static/css/main.a513a38f.css.map",
+    "main.f830e26b.js.map": "/listatareas/static/js/main.f830e26b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a513a38f.css",
+    "static/js/main.f830e26b.js"
+  ]
+}
